@@ -1,167 +1,167 @@
-[/a1.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/a2.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/a3.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/a4.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/a5.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/adcdownload.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/adcdownload.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/amp-api-updates.apps.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/amp-api.media.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/app-site-association.cdn-apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/appldnld.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/appldnld.g.aaplimg.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/appleid.cdn-apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/apps.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/apps.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/bag-cdn.itunes-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cdn-cn1.apple-mapkit.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cdn-cn2.apple-mapkit.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cdn-cn3.apple-mapkit.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cdn-cn4.apple-mapkit.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cdn.apple-mapkit.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cdn1.apple-mapkit.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cdn2.apple-mapkit.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cdn3.apple-mapkit.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cdn4.apple-mapkit.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cds-cdn.v.aaplimg.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cds.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cds.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cdsassets.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/certs.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cl1-cdn.origin-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cl1.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cl2-cn.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cl2.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cl3-cdn.origin-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cl3.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cl4-cdn.origin-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cl4-cn.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cl4.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cl5-cdn.origin-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cl5.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/clientflow.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/clientflow.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cn-smp-paymentservices.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/configuration.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/configuration.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/crl.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cstat.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cstat.cdn-apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/dd-cdn.origin-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/dejavu.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/devimages-cdn.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/devstreaming-cdn.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/download.developer.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/experiments.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gs-loc-cn.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gs-loc.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gsp10-ssl-cn.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gsp12-cn.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gsp13-cn.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gsp4-cn.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gsp5-cn.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gsp85-cn-ssl.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gspe19-2-cn-ssl.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gspe19-cn-ssl.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gspe19-cn.ls-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gspe19-cn.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gspe21-ssl.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gspe35-ssl.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gspe79-cn-ssl.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/guzzoni-apple-com.v.aaplimg.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/guzzoni.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/guzzoni.smoot.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/iadsdk.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/icloud-cdn.icloud.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/icloud.cdn-apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/images.apple.com.edgekey.net.globalredir.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/init-kt.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/init-p01md-lb.push-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/init-p01md.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/init-p01st-lb.push-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/init-p01st.push.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/init-s01st-lb.push-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/init-s01st.push.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/init.ess.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/iosapps.itunes.g.aaplimg.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/ipcdn.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/iphone-ld.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/iphone-ld.origin-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/is1-ssl.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/is1.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/is2-ssl.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/is2.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/is3-ssl.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/is3.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/is4-ssl.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/is4.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/is5-ssl.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/is5.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/itunes-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/itunes.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/itunesconnect.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/mesu-cdn.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/mesu-china.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/mesu.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/ml.cdn-apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/music.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/ocsp-lb.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/ocsp.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/ocsp2-lb.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/ocsp2.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/oscdn.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/oscdn.origin-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/osxapps.itunes.g.aaplimg.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/pancake.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/pancake.cdn-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/pba0.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/probe.siri.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/prod-support.apple-support.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/publicassets.cdn-apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/reserve-prime.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/s.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/seed-sequoia.siri.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/seed-swallow.siri.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/seed.siri.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/sequoia.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/sh-pod2-smp-device.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/shazam-insights.cdn-apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/smp-device-content.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/static.gc.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/stocks-sparkline-lb.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/stocks-sparkline.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/store.apple.com.edgekey.net.globalredir.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/store.apple.com.edgekey.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/store.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/store.storeimages.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/store.storeimages.cdn-apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/support-china.apple-support.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/support.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/swallow-apple-com.v.aaplimg.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/swallow.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/swcatalog-cdn.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/swcatalog.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/swcdn.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/swcdn.g.aaplimg.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/swdist.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/swdist.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/swscan-cdn.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/swscan.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/sylvan.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/tj-pod1-smp-device.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/updates-http.cdn-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/updates-http.cdn-apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/updates.cdn-apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/valid.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/valid.origin-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/weather-data.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/weather-data.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/weather-map.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/weather-map2.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/weatherkit.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/www.apple.com.edgekey.net.globalredir.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/www.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/xp.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
+[/a1.mzstatic.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/a2.mzstatic.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/a3.mzstatic.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/a4.mzstatic.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/a5.mzstatic.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/adcdownload.apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/adcdownload.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/amp-api-updates.apps.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/amp-api.media.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/app-site-association.cdn-apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/appldnld.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/appldnld.g.aaplimg.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/appleid.cdn-apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/apps.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/apps.mzstatic.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/bag-cdn.itunes-apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cdn-cn1.apple-mapkit.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cdn-cn2.apple-mapkit.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cdn-cn3.apple-mapkit.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cdn-cn4.apple-mapkit.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cdn.apple-mapkit.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cdn1.apple-mapkit.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cdn2.apple-mapkit.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cdn3.apple-mapkit.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cdn4.apple-mapkit.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cds-cdn.v.aaplimg.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cds.apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cds.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cdsassets.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/certs.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cl1-cdn.origin-apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cl1.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cl2-cn.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cl2.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cl3-cdn.origin-apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cl3.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cl4-cdn.origin-apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cl4-cn.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cl4.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cl5-cdn.origin-apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cl5.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/clientflow.apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/clientflow.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cn-smp-paymentservices.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/configuration.apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/configuration.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/crl.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cstat.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cstat.cdn-apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/dd-cdn.origin-apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/dejavu.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/devimages-cdn.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/devstreaming-cdn.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/download.developer.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/experiments.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/gs-loc-cn.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/gs-loc.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/gsp10-ssl-cn.ls.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/gsp12-cn.ls.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/gsp13-cn.ls.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/gsp4-cn.ls.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/gsp5-cn.ls.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/gsp85-cn-ssl.ls.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/gspe19-2-cn-ssl.ls.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/gspe19-cn-ssl.ls.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/gspe19-cn.ls-apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/gspe19-cn.ls.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/gspe21-ssl.ls.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/gspe35-ssl.ls.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/gspe79-cn-ssl.ls.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/guzzoni-apple-com.v.aaplimg.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/guzzoni.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/guzzoni.smoot.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/iadsdk.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/icloud-cdn.icloud.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/icloud.cdn-apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/images.apple.com.edgekey.net.globalredir.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/init-kt.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/init-p01md-lb.push-apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/init-p01md.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/init-p01st-lb.push-apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/init-p01st.push.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/init-s01st-lb.push-apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/init-s01st.push.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/init.ess.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/iosapps.itunes.g.aaplimg.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/ipcdn.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/iphone-ld.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/iphone-ld.origin-apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/is1-ssl.mzstatic.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/is1.mzstatic.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/is2-ssl.mzstatic.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/is2.mzstatic.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/is3-ssl.mzstatic.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/is3.mzstatic.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/is4-ssl.mzstatic.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/is4.mzstatic.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/is5-ssl.mzstatic.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/is5.mzstatic.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/itunes-apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/itunes.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/itunesconnect.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/mesu-cdn.apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/mesu-china.apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/mesu.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/ml.cdn-apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/music.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/ocsp-lb.apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/ocsp.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/ocsp2-lb.apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/ocsp2.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/oscdn.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/oscdn.origin-apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/osxapps.itunes.g.aaplimg.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/pancake.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/pancake.cdn-apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/pba0.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/probe.siri.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/prod-support.apple-support.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/publicassets.cdn-apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/reserve-prime.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/s.mzstatic.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/seed-sequoia.siri.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/seed-swallow.siri.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/seed.siri.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/sequoia.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/sh-pod2-smp-device.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/shazam-insights.cdn-apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/smp-device-content.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/static.gc.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/stocks-sparkline-lb.apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/stocks-sparkline.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/store.apple.com.edgekey.net.globalredir.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/store.apple.com.edgekey.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/store.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/store.storeimages.apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/store.storeimages.cdn-apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/support-china.apple-support.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/support.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/swallow-apple-com.v.aaplimg.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/swallow.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/swcatalog-cdn.apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/swcatalog.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/swcdn.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/swcdn.g.aaplimg.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/swdist.apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/swdist.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/swscan-cdn.apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/swscan.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/sylvan.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/tj-pod1-smp-device.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/updates-http.cdn-apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/updates-http.cdn-apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/updates.cdn-apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/valid.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/valid.origin-apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/weather-data.apple.com.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/weather-data.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/weather-map.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/weather-map2.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/weatherkit.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/www.apple.com.edgekey.net.globalredir.akadns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/www.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/xp.apple.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
