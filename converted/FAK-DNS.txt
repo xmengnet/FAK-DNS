@@ -2751,6 +2751,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/21kk.cc/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/21ks.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/21kunpeng.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/21kyj.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/21ld.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/21maoyi.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/21mcu.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -2847,6 +2848,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/22n.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/22net.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/22plc.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/22ppt.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/22pq.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/22tianbo.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/22tj.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -9081,6 +9083,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/9you.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/9you.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/9yread.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/9yuanlive.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/9yue.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/9yuntu.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/9yuonline.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -9137,6 +9140,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/a61cee76f4df41b1.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/a6562752811032.beer/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/a6api.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/a6api.vip/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/a6h8.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/a700in.ren/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/a75d755806b1095d.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -9816,6 +9820,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/agnaw.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/agpolis.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/agrantsem.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/agriglobaltradeai.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/agriotcloud.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/agrittex.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/agrochemshow.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -10481,6 +10486,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/airtofly.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/airtu.me/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/airwh.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/airxizang.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/aisanrenxing.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/aisaohuo.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/aisbeijing.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -10844,6 +10850,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/alictf.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/alidayu.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/aliddmall.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/alidns-2.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/alidns.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/alidns.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/alidnsv122.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -12468,6 +12475,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/atcloudbox.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/atcontainer.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/atcpu.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/atengyun.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/aterminal.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/atfeng.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/atgbiotechnology.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -19788,6 +19796,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/chaoyi996.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/chaoyinjiu.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/chaoyuesd.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/chaoyun168.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/chaozhoudaily.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/chaozhouyin.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/chaozuo.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -19816,6 +19825,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/chatairc.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/chatanywhere.tech/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/chatartpro.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/chatdoing.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/chateaustarriver.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/chatglm.site/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/chatgptboke.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -19823,6 +19833,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/chatmindai.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/chatnos.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/chatopera.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/chatppt.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/chatqp.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/chatvgx.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/chatyygpt.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -20180,6 +20191,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/chezvi.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/chfsmartad.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/chgcw.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/chggzh.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/chghouse.org/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/chgi.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/chgie.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -22976,6 +22988,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/cndi-bj.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/cndi.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/cndids.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cndik.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/cndingli.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/cndingxi.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/cndits.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -23080,6 +23093,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/cngin.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/cngma.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/cngold.org/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cngoldprice.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/cngoldres.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/cngolf.tv/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/cngongfu.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -23762,6 +23776,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/codeweixin.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/codewoody.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/codex-watch.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/codexplus.vip/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/codezyw.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/codigoscript.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/coding-io.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -25690,6 +25705,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/cuumo.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/cux.cc/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/cuz.cx/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/cuzkeplox.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/cuzz.site/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/cvc898cvc.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/cvchome.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -26101,6 +26117,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/czyuxing.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/czyxba.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/czyzd.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/czzdpb.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/czzqp.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/czzsw.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/czztjj.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -26500,6 +26517,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/damijing.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/damingweb.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/damiw.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/damixiao.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/damndigital.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/damo-academy.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/damodel.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -26717,6 +26735,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/darknavy.org/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/darknight.games/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/darmao.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/darmoshark.cc/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/darongcheng.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/darryring.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/dartchina.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -27134,6 +27153,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/ddedush.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/ddfans.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/ddfchina.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/ddfl5.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/ddfresh.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/ddfzb.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/ddgjjj.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -27690,6 +27710,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/dggcyy.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/dggdk.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/dgggs.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/dgghj.ltd/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/dgghy.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/dggjqw.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/dggjyy.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -28023,6 +28044,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/dicila-china.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/dicom365.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/dictall.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/dida.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/dida110.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/dida365.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/didabds.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -28540,6 +28562,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/dlxk.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/dlxmicro.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/dlxww.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/dly-cn.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/dly56.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/dlyy365.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/dlzb.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -31012,6 +31035,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/ef360.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/ef360.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/ef369594911012.beer/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/efaka.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/efang.tv/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/efangwang.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/efapiao.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -33095,6 +33119,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/feelcars.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/feelchat.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/feelec.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/feelfish.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/feelsoar.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/feemoo.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/feemoo.hk/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -33276,6 +33301,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/felicitysolar.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/feling.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/felink.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/felix-fang.life/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/felix021.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/felizpg.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/felmvip.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -33543,6 +33569,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/fhd001.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/fheb-four.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/fheb-six.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/fhezyk.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/fhfxys.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/fhgame.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/fhgjds.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -34298,6 +34325,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/fosstea.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/fosun-uhi.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/fosun.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/fosung.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/fosunhealth.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/fosunholiday.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/fosunmetal.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -36154,6 +36182,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/gdshunna.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/gdshuojin.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/gdsia.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/gdsicsemi.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/gdsjqr.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/gdsjx.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/gdsjxjy.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -37626,6 +37655,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/gongkaohub.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/gongkaoleida.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/gongkaowo.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/gongke.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/gongkong.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/gongkongbpo.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/gongkongedu.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -38042,6 +38072,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/greenits.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/greenlandcn.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/greenlandsc.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/greennet-inc.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/greenpine.cc/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/greenswolf.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/greentomail.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -38914,6 +38945,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/guyuenglish.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/guyungame.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/guyuns.asia/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/guzaza.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/guzhang.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/guzhenm.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/guzhongtrade.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -40659,6 +40691,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/gyaqyy.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/gyb086.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/gybyscy.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/gyccwx.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/gycharm.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/gycode.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/gyddos.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -42127,6 +42160,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/haohuan.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/haohuanjiao.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/haohuoyuan.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/haohuxx.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/haointl.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/haoinvest.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/haoji.me/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -42589,6 +42623,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/hbgrb.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/hbgroups.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/hbgsetc.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/hbgsoft.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/hbgswl.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/hbgwy.org/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/hbgzh.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -43123,6 +43158,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/heartide.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/heartinsti.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/heartxin.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/heartyong.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/heating-sh.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/heatingtrace.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/heavenlywind.cc/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -43989,6 +44025,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/hibymusic.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/hic.cloud/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/hicane.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/hicaspian.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/hicdma.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/hiceon.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/hichain.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -44170,6 +44207,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/hiphotonics.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/hipiao.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/hipole.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/hippoaixue.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/hippoanimation.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/hippter.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/hipu.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -45923,6 +45961,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/htfilter.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/htfpartner.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/htfutures.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/htfzsdk.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/htg520.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/htgjjl.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/htgkdz.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -50127,6 +50166,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/ipguishu.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/iphonediule.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/ipin.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/ipinfo.cv/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/ipingyao.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/ipinyou.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/ipip.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -52134,6 +52174,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/jiayaw.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/jiayi56.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/jiayin618.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/jiayinglive.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/jiayougo.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/jiayoujsq.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/jiayouxueba.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -53841,6 +53882,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/joyinvleah.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/joyj.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/joymeng.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/joymeter.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/joyncleon.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/joynext.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/joyochem.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -53855,6 +53897,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/joyson.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/joyssl.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/joystay.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/joysuch.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/joysung.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/joysunsh.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/joytest.org/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -55531,6 +55574,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/jzxjcf.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/jzxs.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/jzygczx.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/jzyhp.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/jzyqyb.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/jzyqzypg.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/jzyx.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -56038,6 +56082,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/kc-keycool.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/kc0011.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/kc87.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/kcallme.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/kcbebank.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/kccidc.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/kccn.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -59936,6 +59981,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/linzihy.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/lion1ou.tech/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/lionaka.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/liongege.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/lionit.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/lionkingsoft.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/lionmac.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -60776,6 +60822,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/lookvin.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/loome.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/loonapp.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/loong1.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/loong3d.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/loongdriving.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/loongnix.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -60882,6 +60929,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/lovgiin.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/lovol.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/lovology.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/lowpowersemi.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/loxpo.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/loyalvalleycapital.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/loyar.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -61189,6 +61237,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/luckyair.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/luckychipsmaster.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/luckycoffee.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/luckycup.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/luckyop.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/luckyuyin.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/luckyxp.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -61608,6 +61657,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/lxtuyoo.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/lxtuyoogame.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/lxtuyou.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/lxtx777.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/lxway.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/lxway.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/lxwlcn.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -63015,6 +63065,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/me-city.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/me-game.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/me-tencent.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/me.news/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/me1.ltd/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/me360.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/me361.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -63840,6 +63891,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/microcardio.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/microchampion.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/microdiag.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/microdiode.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/microdreams.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/microfotos.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/microfountain.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -64999,6 +65051,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/moshengliang.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/moshou.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/moshuai.cc/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/moshuiai.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/mosoga.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/mossimo.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/mossle.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -65077,6 +65130,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/mozhan.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/mozhedun.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/mozhenhau.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/mozhenzhen.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/mozichina.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/mozigu.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/mozillazg.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -66151,6 +66205,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/nanningxiaoou.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/nanningyouhua.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/nannjlnk.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/nano-trix.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/nanobody-biolab.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/nanochrom.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/nanoeast.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -66969,6 +67024,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/nhzs.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/ni8.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/ni93.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/nia-teams.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/nianchu.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/nianhuawan.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/niankawang.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -69367,6 +69423,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/opfibre.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/opgw-oppc.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/opinstallinit.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/opinstallres.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/opjmw1.ren/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/opkjh.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/oplay.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -71134,6 +71191,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/plob.org/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/plopco.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/plottersyservicioshdz.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/plovercrest.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/plsbd.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/plsdeyy.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/plsfybjy.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -71217,6 +71275,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/pnzpw.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/pnzxyy.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/po.co/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/po1c0tw4b2.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/po7ryumvkx34.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/pobaby.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/pobasoft.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -71538,6 +71597,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/ppwang.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/ppwenda.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/ppwfa.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/ppwfund.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/ppwow.cc/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/ppwwyyxx.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/ppx520.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -72433,6 +72493,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/qh24.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/qh4321.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/qh6bc.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/qh7ptb6mc.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/qhangyun.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/qhass.org/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/qhball.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -73063,6 +73124,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/qingshuxuetang.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/qingsongchou.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/qingsongjituan.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/qingsongzhuan.online/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/qingsonngxx.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/qingstor.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/qingtaoke.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -73537,6 +73599,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/qnzyy.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/qoder.ai/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/qoder.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/qoder.sh/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/qolai.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/qooboo.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/qoocc.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -73713,6 +73776,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/qqwmly.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/qqwwr.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/qqwys.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/qqx.me/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/qqxmail.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/qqxs.la/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/qqxsnew.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -74363,6 +74427,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/quxds.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/quxianchang.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/quxiang.work/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/quxianzhan.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/quxianzhuan.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/quxiaxia.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/quxingdong.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -75309,6 +75374,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/reserve-backend.dji.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/reservehemu.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/resheji.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/reshg.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/resistor.today/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/resnics.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/resona-wujl.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -76570,6 +76636,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/sanabuy.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/sanaemio.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/sanan-e.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/sanan-semiconductor.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/sananyiliao.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/sanau.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/sanbaiyun.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -79328,6 +79395,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/shhyhy.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/shhzcj.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/shi-ming.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/shiabank.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/shianzhixuan.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/shibaili.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/shibangchina.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -79525,6 +79593,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/shirenzuojia.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/shiritianchengtech.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/shirongzhaoye.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/shirui3.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/shisanzhi.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/shiseidochina.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/shishacharcoal.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -81191,6 +81260,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/sjzqcrl.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/sjzrbapp.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/sjzrmyz.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/sjzsnncs.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/sjzswtz.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/sjzszz.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/sjztd.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -81496,6 +81566,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/smcec.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/smcic.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/smcsrj.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/smcyh.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/smd-automation.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/smd88.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/smdcn.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -83163,6 +83234,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/sunbowhospital.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/sunboxsoft.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/sunboyu.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/suncd.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/suncereltd.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/suncjm.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/sundan.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -84669,6 +84741,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/szpowerfly.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/szpra.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/szprl.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/szpro360.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/szptxx.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/szputy.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/szqf.org/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -85693,6 +85766,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/tcoejox.shop/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tcomall.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tcp-crm.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/tcp.cm/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tcp.hk/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tcp.mk/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tcp.pub/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -86133,6 +86207,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/tencentdb.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tencentddos.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tencentdevices.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/tencentdi.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tencentdigitalassistant.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tencentdmp.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tencentdms.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -87307,6 +87382,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/tjqq.cc/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tjrenliziyuan.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tjrenmu.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/tjrywlkj.online/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tjrzzl.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tjship.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tjsjnxh.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -87538,6 +87614,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/tmjj.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tmjob88.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tmkoo.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/tmlyun.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tmoxrobot.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tmqd.me/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tmqmqj.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -87649,6 +87726,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/tokenglish.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tokenrhythm.studio/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tokensky.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/tokentracker.cc/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tokimekiclub.org/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tokyo.skypixel.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tol24.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -88184,6 +88262,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/tracyclass.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tradaquan.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tradeblazer.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/tradeflow.chat/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tradeleo.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/trademanager.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/trademessenger.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -88898,6 +88977,8 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/tushumi.cc/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tushumi.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tushuokeji.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/tusiart.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/tusiassets.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tusij.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tusiot.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tusmedicine.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -89170,6 +89251,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/tydns.cc/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tyduanju.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tyeat.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/tyedo.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tyeec.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tyepi.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/tyfo.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -90811,6 +90893,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/vip120.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/vip1280.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/vip150.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/vip166.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/vip3659k.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/vip7337.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/vip7787.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -91583,6 +91666,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/wagen.cc/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/waha.cc/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/wahahakid.org/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/wahbouproduct.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/waheaven.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/wahlap.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/wahlap.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -92340,6 +92424,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/webankwyd.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/webarcx.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/webcamx666.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/webclose-whatsapp.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/webdissector.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/webetter-ad.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/webfalse.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -92913,6 +92998,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/wendougee.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/wendu.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/wenduedu.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/wenduoduo.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/wenfangcn.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/wenfangjushe.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/wenfangnet.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -93398,6 +93484,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/whidf.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/whidy.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/whiie-expo.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/whinbrook.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/whinfo.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/whir.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/whisperto.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -97469,6 +97556,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/xingyunb.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xingyunba.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xingyungroup.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/xingyunka.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xingyunol.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xingyusoft.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xingyutc.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -98544,6 +98632,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/xn--nyqx2gbsm8u0b.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xn--obym4a85u8ob.xn--ses554g/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xn--omrvgz6er31au6f.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/xn--p3tw43cwvb.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xn--p5t28ylet56a.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xn--pss89e6xl72g.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xn--ptua509t.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -99028,6 +99117,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/xuebaclass.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xuebaike.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xuebangsoft.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/xuebasou.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xuebawang.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xuecaijie.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xuecan.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -99103,6 +99193,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/xueshu5.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xueshuda.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xueshut.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/xueshuweishi.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xueshuwenhai.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xuesongshuwood.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xuesw.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -99497,6 +99588,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/xxxmeng.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xxxxxx6.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xxxzzlm.org/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/xxy-nirvana.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xxy5hi7j.lol/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xxycw.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/xxyeyan.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -100327,6 +100419,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/yaypool.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/yayu.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/yayunjiqi.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/yazhijian.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/yazhongzhuangshi.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/yazuo.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/yazx.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -102542,6 +102635,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/yoozhe.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/yoozhibo.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/yoozoo.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/yoplay.hk/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/yopoint.cc/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/yopoint.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/yoptech.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -104854,6 +104948,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/zanig.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zanih.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zankee1955.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/zanpc.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zanpic.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zanpu.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zantainet.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -104981,6 +105076,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/zbwbbs.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zbwdj.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zbwg.cc/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/zbwhmedia.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zbwmy.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zbwpay.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zbxcck.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -105499,6 +105595,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/zglww.net/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zglxw.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zglyrc.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/zglyun.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zglyz.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zgmba.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zgmcxw.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -106315,6 +106412,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/zhiliaocaibao.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zhiliaoke.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zhilidata.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/zhiling.pw/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zhilingshidai.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zhilingshop.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zhilitraffic.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -108822,6 +108920,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/zuiyou.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zuiyouxi.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zuizhifu.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/zuizhinan.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zuji360.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zujiant.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zujingpai.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
@@ -109198,6 +109297,7 @@ https://056tc63epa.cloudflare-gateway.com/dns-query
 [/zyou100.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zyoulun.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zypharm.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
+[/zypiaojia.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zyplayer.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zyq.today/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
 [/zyq366.com/]https://672171-1uptwgcs3i8lkn6r.alidns.com/dns-query https://doh-1c47d86e.doh.pub/dns-query https://dns.comss.one/dns-query https://v.recipes/dns-cn
